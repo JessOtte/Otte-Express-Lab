@@ -1,0 +1,16 @@
+{
+  "name": "node-express-lab",
+  "version": "1.0.0",
+  "description": "NodeJS Express Lab",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "author": "Jessica Otte",
+  "license": "ISC"
+}
